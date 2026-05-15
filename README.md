@@ -2,6 +2,13 @@
 列出了市面上主流的GPT API 中转站，及其简单介绍，欢迎提issue添加或修改内容
 
 ## API中转站聚合
+### [TokenScope](https://token-scope.com) — AI模型渠道聚合比价平台
+- 聚合 159+ 个API中转站，16,000+ 模型，一键比较价格和可用性
+- 实时价格对比，找到最便宜的 API 渠道
+- 覆盖 OpenAI / Claude / Gemini / DeepSeek 等主流模型
+- 免费模型专区，零成本体验 AI API
+- 中英双语支持，完全免费使用
+
 https://www.mnapi.com
 
 All in One的中转站聚合平台
@@ -58,3 +65,4 @@ https://www.aiapipk.com
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=mn-api/awesome-ai-proxy&type=Date)](https://star-history.com/#mn-api/awesome-ai-proxy&Date)
+
